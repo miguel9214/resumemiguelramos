@@ -1,4 +1,4 @@
-# [Vue Resume Template](https://ryanbalieiro.github.io/resumemiguelramos/) by Miguel Ramos
+# [Vue Resume Template](https://ryanbalieiro.github.io/) by Miguel Ramos
 
 This theme has a simple and clean layout designed for creating user-friendly resumes or CV landing pages. It's built using Vue 3.0 (Composition API) and Bootstrap 5, presenting a cohesive one-page layout that blends functionality and aesthetics.
 
@@ -16,7 +16,7 @@ Key features:
 
 ## Preview
 
-Check out a live version of the template **[here](https://ryanbalieiro.github.io/resumemiguelramos/).**
+Check out a live version of the template **[here](https://ryanbalieiro.github.io/).**
 
 ### 1. Desktop Screenshots
 
@@ -219,12 +219,12 @@ Open the `vite.config.js` file and set the base directory for your application. 
 
 ```js
 export default defineConfig({
-  base: '/resumemiguelramos/',
+  base: '/',
   plugins: [vue()],
 })
 ```
 
-In simple terms, if you consider GitHub hosting the GitHub Pages site for this repo at the URL `https://ryanbalieiro.github.io/resumemiguelramos/`, the correct base directory to set is `/resumemiguelramos/`.
+In simple terms, if you consider GitHub hosting the GitHub Pages site for this repo at the URL `https://ryanbalieiro.github.io/`, the correct base directory to set is `/`.
 
 If you're deploying to Netlify or your own custom domain where your website is located at the root, you can leave the `base` setting as `'/'`.
 
