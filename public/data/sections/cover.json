@@ -1,0 +1,31 @@
+{
+    "locales": {
+        "en": {
+            "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
+            "welcomeShort": "Welcome!",
+            "bio": "I am a passionate full-stack developer with a special focus on Laravel and Vue.js, along with strong expertise in PHP and JavaScript. My daily motivation lies in the constant desire to enhance my skills and apply my knowledge to create efficient web solutions. I excel in frameworks like Laravel and Vue.js, enabling me to develop robust and scalable applications that meet the highest standards.Every day, I strive to improve the environments I work in through a continuous commitment to learning and professional growth. My dedication goes beyond technical development, as I aim to contribute positively to the team and the project, overcoming challenges with creativity, efficiency, and a collaborative mindset.."
+        },
+
+        "es": {
+            "welcome": "¡Bienvenido(a) a mi <span class='text-primary'>CV!</span>",
+            "welcomeShort": "¡Saludos!",
+            "bio": "Soy un apasionado desarrollador full-stack con un enfoque especial en Laravel y Vue.js, además de un sólido dominio de PHP y JavaScript. Mi motivación diaria radica en el deseo constante de mejorar mis habilidades y aplicar mis conocimientos para crear soluciones web eficientes. Domino frameworks como Laravel y Vue.js, lo que me permite desarrollar aplicaciones robustas y escalables que cumplen con los más altos estándares. Cada día, busco potenciar los entornos en los que trabajo mediante un compromiso continuo con el aprendizaje y la evolución profesional. Mi dedicación no solo se centra en el desarrollo técnico, sino también en contribuir positivamente al equipo y al proyecto, superando desafíos con creatividad, eficacia y un enfoque colaborativo."
+        }
+
+    },
+
+    "items": {
+        "socialCircles": [
+            "@link{profile.contact.instagram}",
+            "@link{profile.contact.facebook}",
+            "@link{profile.contact.linkedin}",
+            "@link{profile.contact.github}"
+        ],
+
+        "contactListItems": [
+            "@link{profile.contact.address}",
+            "@link{profile.contact.email}",
+            "@link{profile.contact.phone}"
+        ]
+    }
+}
