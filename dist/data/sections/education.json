@@ -20,12 +20,12 @@
       "locales": {
         "en": {
           "title": "UX Fundamentals Online Certification",
-          "description": "Enrolled in an online program covering essential UX concepts, including user research, usability testing, and information architecture. Strengthened skills in creating intuitive and user-friendly digital experiences."
+          "description": "Enrolled in an online program covering essential UX concepts, including user research, Dynamic Interface Development with Vue.js, and information architecture. Strengthened skills in creating intuitive and user-friendly digital experiences."
         },
 
         "es": {
           "title": "Certificación en Fundamentos de UX en Línea",
-          "description": "Inscrito en un programa en línea que abarca conceptos esenciales de UX, incluida la investigación de usuarios, pruebas de usabilidad y arquitectura de la información. Reforzó habilidades en la creación de experiencias digitales intuitivas y amigables para el usuario."
+          "description": "Inscrito en un programa en línea que abarca conceptos esenciales de UX, incluida la investigación de usuarios, Desarrollo de Interfaces Dinámicas con Vue.js y arquitectura de la información. Reforzó habilidades en la creación de experiencias digitales intuitivas y amigables para el usuario."
         }
       }
     },
