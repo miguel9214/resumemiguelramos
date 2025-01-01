@@ -7,14 +7,6 @@
         "es": {
             "title": "Conjunto de <span class='text-primary'>Habilidades</span>",
             "description": "Explorando la diversidad de habilidades que he adquirido y desarrollado:"
-        },
-        "fr": {
-            "title": "Ensemble de <span class='text-primary'>Compétences</span>",
-            "description": "Exploration de la gamme variée de compétences que j'ai acquises et développées:"
-        },
-        "zh": {
-            "title": "<span class='text-primary'>技能</span> 集",
-            "description": "探索我所掌握和发展的多样技能:"
         }
     },
 
@@ -36,9 +28,7 @@
             "faIcon": "fa fa-code",
             "locales": {
                 "en": {"title": "Programming"},
-                "es": {"title": "Programación"},
-                "fr": {"title": "Programmation"},
-                "zh": {"title": "编程"}
+                "es": {"title": "Programación"}
             }
         },
 
@@ -49,9 +39,7 @@
             "faIcon": "fa fa-language",
             "locales": {
                 "en": {"title": "Languages"},
-                "es": {"title": "Idiomas"},
-                "fr": {"title": "Langues"},
-                "zh": {"title": "语言"}
+                "es": {"title": "Idiomas"}
             }
         },
 
@@ -62,9 +50,7 @@
             "faIcon": "fa fa-marker",
             "locales": {
                 "en": {"title": "Bonus Skills"},
-                "es": {"title": "Habilidades Adicionales"},
-                "fr": {"title": "Plus Habiletés"},
-                "zh": {"title": "附加技能"}
+                "es": {"title": "Habilidades Adicionales"}
             }
         }
     ],
@@ -77,20 +63,12 @@
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Responsive Layouts",
-                        "description": "Proficient in crafting adaptable layouts for diverse devices, ensuring optimal user experience."
+                        "title": "API Development with Laravel",
+                        "description": "Skilled in creating robust RESTful APIs using Laravel, implementing secure authentication, data validation, and optimized business logic.."
                     },
                     "es": {
-                        "title": "Diseños Responsivos",
-                        "description": "Destacada habilidad en crear diseños adaptables para diversos dispositivos, garantizando una experiencia de usuario óptima ."
-                    },
-                    "fr": {
-                        "title": "Mises en Page Réactives",
-                        "description": "Compétent pour créer des mises en page adaptables pour divers appareils, assurant une expérience utilisateur optimale."
-                    },
-                    "zh": {
-                        "title": "响应式布局",
-                        "description": "擅长为不同设备创建适应性布局，通过无缝调整设计元素和内容以适配不同屏幕尺寸，确保最佳用户体验。"
+                        "title": "Desarrollo de APIs con Laravel",
+                        "description": "Experto en la creación de APIs RESTful utilizando Laravel, con autenticación segura, validación de datos y lógica empresarial optimizada."
                     }
                 }
             },
@@ -101,20 +79,12 @@
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Design Principles",
-                        "description": "Masterful at creating captivating designs, blending color theory, typography, layout, and balance for effective messaging."
+                        "title": "Database Management",
+                        "description": "Proficient in designing, optimizing, and managing relational databases with MySQL, leveraging Eloquent ORM for efficient integration."
                     },
                     "es": {
-                        "title": "Principios de Diseño",
-                        "description": "Experto en diseño: fusiono teoría del color, tipografía, layout y equilibrio para cautivar y transmitir mensajes."
-                    },
-                    "fr": {
-                        "title": "Principes de Conception",
-                        "description": "Habile en design: utilise principes couleur, typo, composition et équilibre pour captiver et transmettre efficacement."
-                    },
-                    "zh": {
-                        "title": "设计原则",
-                        "description": "运用色彩理论、排版、版面构图和平衡等基本原则，巧妙打造视觉吸引的设计，以吸引观众并有效传达信息。"
+                        "title": "Gestión de Bases de Datos",
+                        "description": "Competencia en diseño, consultas optimizadas y manejo de bases de datos relacionales con MySQL, utilizando Eloquent ORM para la integración eficiente."
                     }
                 }
             },
@@ -125,20 +95,12 @@
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Wireframing",
-                        "description": "Skilled in creating detailed wireframes to visualize and plan user interfaces, effectively laying the foundation for intuitive design."
+                        "title": "Middleware and Security Management",
+                        "description": "Experienced in developing middleware to handle authentication, authorization, and protection against vulnerabilities such as CSRF and XSS."
                     },
                     "es": {
-                        "title": "Creación de Wireframes",
-                        "description": "Habilidad para crear wireframes detallados para visualizar y planificar interfaces de usuario."
-                    },
-                    "fr": {
-                        "title": "Création de Wireframes",
-                        "description": "Compétent dans la création de wireframes détaillés pour visualiser et planifier les interfaces utilisateur."
-                    },
-                    "zh": {
-                        "title": "线框图设计",
-                        "description": "熟练制作详细的线框图，以便可视化和规划用户界面。"
+                        "title": "Manejo de Middleware y Seguridad",
+                        "description": "Experiencia en el desarrollo de middleware para manejar autenticación, autorización y protección contra vulnerabilidades como CSRF y XSS."
                     }
                 }
             },

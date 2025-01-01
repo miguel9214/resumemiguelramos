@@ -77,12 +77,12 @@
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Responsive Layouts",
-                        "description": "Proficient in crafting adaptable layouts for diverse devices, ensuring optimal user experience."
+                        "title": "API Development with Laravel",
+                        "description": "Skilled in creating robust RESTful APIs using Laravel, implementing secure authentication, data validation, and optimized business logic.."
                     },
                     "es": {
-                        "title": "Diseños Responsivos",
-                        "description": "Destacada habilidad en crear diseños adaptables para diversos dispositivos, garantizando una experiencia de usuario óptima ."
+                        "title": "Desarrollo de APIs con Laravel",
+                        "description": "Experto en la creación de APIs RESTful utilizando Laravel, con autenticación segura, validación de datos y lógica empresarial optimizada."
                     },
                     "fr": {
                         "title": "Mises en Page Réactives",
@@ -101,12 +101,12 @@
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Design Principles",
-                        "description": "Masterful at creating captivating designs, blending color theory, typography, layout, and balance for effective messaging."
+                        "title": "Database Management",
+                        "description": "Proficient in designing, optimizing, and managing relational databases with MySQL, leveraging Eloquent ORM for efficient integration."
                     },
                     "es": {
-                        "title": "Principios de Diseño",
-                        "description": "Experto en diseño: fusiono teoría del color, tipografía, layout y equilibrio para cautivar y transmitir mensajes."
+                        "title": "Gestión de Bases de Datos",
+                        "description": "Competencia en diseño, consultas optimizadas y manejo de bases de datos relacionales con MySQL, utilizando Eloquent ORM para la integración eficiente."
                     },
                     "fr": {
                         "title": "Principes de Conception",
@@ -125,12 +125,12 @@
                 "value": null,
                 "locales": {
                     "en": {
-                        "title": "Wireframing",
-                        "description": "Skilled in creating detailed wireframes to visualize and plan user interfaces, effectively laying the foundation for intuitive design."
+                        "title": "Middleware and Security Management",
+                        "description": "Experienced in developing middleware to handle authentication, authorization, and protection against vulnerabilities such as CSRF and XSS."
                     },
                     "es": {
-                        "title": "Creación de Wireframes",
-                        "description": "Habilidad para crear wireframes detallados para visualizar y planificar interfaces de usuario."
+                        "title": "Manejo de Middleware y Seguridad",
+                        "description": "Experiencia en el desarrollo de middleware para manejar autenticación, autorización y protección contra vulnerabilidades como CSRF y XSS."
                     },
                     "fr": {
                         "title": "Création de Wireframes",

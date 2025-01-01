@@ -61,6 +61,24 @@
         }
     },
 
+    "upc": {
+        "logoUrl": "images/places/logo-upc.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "Popular University of Cesar"},
+            "es": {"name": "Universidad Popular del Cesar"}
+        }
+    },
+
+    "sena": {
+        "logoUrl": "images/places/logo-sena.png",
+        "faIcon": "fas fa-university",
+        "locales": {
+            "en": {"name": "National Learning Service - SENA"},
+            "es": {"name": "Servicio Nacional de Aprendizaje - SENA"}
+        }
+    },
+
     "udacity": {
         "logoUrl": "images/places/logo-udacity.png",
         "faIcon": "fa fa-house-laptop",
